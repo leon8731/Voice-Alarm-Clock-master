@@ -1,0 +1,9 @@
+selenium
+pyperclip
+gtts
+pygame
+SpeechRecognition
+PyAudio
+jieba
+
+最後更新2019/12/31  v14
